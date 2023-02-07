@@ -2,7 +2,7 @@
 
 ## Pour voir les diagrammes :
 - Voir les screenshots dans "images"
-- copier le code de "diagrammes" dans un fichier .xml et glisser le fichier sur draw.io
+- Copier le code de "diagrammes" dans un fichier .xml et glisser le fichier sur draw.io pour voir le diagramme
 
 ## Membres projets et répartition des tâches : 
 - LACES Vitomir : 
