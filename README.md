@@ -6,6 +6,6 @@
 
 ## Membres projets et répartition des tâches : 
 ### LACES Vitomir : 
-Diagramme User Experience 4.2
+Diagramme User Experience 4.2 + texte hébergement
 ### OUALLET Sandie : 
 Diagramme Gestion des Médias 2.1 + texte hébergement
