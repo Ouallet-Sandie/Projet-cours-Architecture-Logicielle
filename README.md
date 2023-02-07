@@ -1,8 +1,8 @@
 # Projet cours Architecture Logicielle
 
 ## Pour voir les diagrammes :
-1- Voir les screenshots dans "images"
-2- copier le code de "diagrammes" dans un fichier .xml et glisser le fichier sur draw.io
+- Voir les screenshots dans "images"
+- copier le code de "diagrammes" dans un fichier .xml et glisser le fichier sur draw.io
 
 ## Membres projets et répartition des tâches : 
 - LACES Vitomir : 
