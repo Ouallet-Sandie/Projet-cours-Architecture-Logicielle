@@ -1,4 +1,4 @@
-# Projet-cours-Architecture-Logicielle
+# Projet cours Architecture Logicielle
 
 ## Membres projets et répartition des tâches : 
 - LACES Vitomir : 
