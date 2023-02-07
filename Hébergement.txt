@@ -1,0 +1,11 @@
+Proposition d'hébergement :
+
+Pour héberger le projet, il faut deux serveurs avec chacun leur base de donnée, ainsi en cas de problème sur l'un des deux, l'autre fonctionne toujours. 
+
+Pour le choix de l'hébergeur internet de nos serveurs, nous allons en choisir un français de préférence car l'événement se déroule en France, 
+il est très simple de trouver de nombreux hébergeurs en cherchant sur internet, on peut y trouver par exemple IONOS ou encore HOSTINGER, 
+et il suffit donc d'héberger un serveur sur un hébergeur choisi et l'autre serveur sur un autre hébergeur, toujours français, mais séparer géographiquement.
+Il faut également penser au fait que l'architecture doit être de type laaS, l'événement étant de courte durée il n'y a donc pas besoin de maintenir la pérennité du projet plus longtemps que nécessaire.
+
+Pour les base de données/API, on favorisa les architecture en micro service / fonctions car un grand nombre de fonctionnalités seront nécessaires, il faut 
+cependant là aussi penser au fait que l'événement ne durera pas longtemps 
